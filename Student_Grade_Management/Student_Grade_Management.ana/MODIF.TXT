@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Student		NFI		new file
+Subject		NFI		new file
+Student_Subject		NFI		new file
+Constraint_Student_Subject		NWL	Student (student_ID) and Student_Subject (Student_ID)	New link between Student (student_ID) and Student_Subject (Student_ID)
+Constraint_Subject_Student		NWL	Subject (SubjectID) and Student_Subject (SubjectID)	New link between Subject (SubjectID) and Student_Subject (SubjectID)
