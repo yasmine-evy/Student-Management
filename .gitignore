@@ -1,20 +1,31 @@
-##HFSQL / database files
+
+############################
+# HFSQL / Database files
+############################
 *.fic
 *.ndx
 *.mmo
-*.ndx*
 *.fic.lock
 
-##Temporary files
+############################
+# Temporary / logs
+############################
 *.tmp
 *.log
 *.bak
 
-##WinDev generated folders (optional but recommended)
+############################
+# WinDev cache / temp only
+############################
+lastsave/
+Backup/
+Exe/
 __WDLIBRAIRIES__/
 __WDDATAS__/
 __WDPROJECTCACHE__/
 
-##System files
+############################
+# System files
+############################
 .DS_Store
 Thumbs.db
