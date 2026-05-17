@@ -1,2 +1,7 @@
 //MO002-003.TXT ANA00002 TO ANA00003
-Student_Subject	participation	NNR	Attendance	CAUTION: Attendance item renamed as participation
+Student_Subject		TAR	42	new record size: 42
+Student_Subject	Td_Grade	CNW	4-byte real$Unsigned 1-byte integer	item Td_Grade has a new type: 4-byte real
+Student_Subject	Test_Grade	CNW	4-byte real$Unsigned 1-byte integer	item Test_Grade has a new type: 4-byte real
+Student_Subject	Exam_Grade	CNW	4-byte real$Unsigned 1-byte integer	item Exam_Grade has a new type: 4-byte real
+Student_Subject	Attendance	CNW	4-byte real$Unsigned 1-byte integer	item Attendance has a new type: 4-byte real
+Student_Subject	Final_Note	RUB+		Final_Note is a new item
