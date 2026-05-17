@@ -1,6 +1,5 @@
-//MO000-001.TXT ANA00000 TO ANA00001
-Student		NFI		new file
-Subject		NFI		new file
-Student_Subject		NFI		new file
-Constraint_Student_Subject		NWL	Student (student_ID) and Student_Subject (Student_ID)	New link between Student (student_ID) and Student_Subject (Student_ID)
-Constraint_Subject_Student		NWL	Subject (SubjectID) and Student_Subject (SubjectID)	New link between Subject (SubjectID) and Student_Subject (SubjectID)
+//MO001-002.TXT ANA00001 TO ANA00002
+Student_Subject		TAR	25	new record size: 25
+Student_Subject	Attendance	RUB+		Attendance is a new item
+Constraint_Student_Subject		MCL	0,n->1,n	
+Constraint_Subject_Student		MCL	0,n->1,n	
