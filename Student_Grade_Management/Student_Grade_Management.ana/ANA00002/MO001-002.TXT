@@ -1,3 +1,5 @@
 //MO001-002.TXT ANA00001 TO ANA00002
-Constraint_Student_Subject		MCL	1,n->0,n	
-Constraint_Subject_Student		MCL	1,n->0,n	
+Student_Subject		TAR	25	new record size: 25
+Student_Subject	Attendance	RUB+		Attendance is a new item
+Constraint_Student_Subject		MCL	0,n->1,n	
+Constraint_Subject_Student		MCL	0,n->1,n	
