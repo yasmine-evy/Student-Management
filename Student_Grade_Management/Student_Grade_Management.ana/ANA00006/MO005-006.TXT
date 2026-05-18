@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Subject	Subject_ID	NNR	SubjectID	CAUTION: SubjectID key renamed as Subject_ID
+Student_Subject	Subject_ID	NNR	SubjectID	CAUTION: SubjectID key renamed as Subject_ID
