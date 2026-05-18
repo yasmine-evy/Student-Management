@@ -1,13 +1,8 @@
 ############################
 # WinDev project files
 ############################
-*.wdp
-*.wda
 *.env
-*.wep
 *.wic
-*.wbp
-*.wbx
 *.wdcoverage
 *.wdcoverage.tmp*
 *.wdaudit
@@ -40,7 +35,6 @@ Debug/
 ############################
 lastsave/
 Backup/
-Exe/
 __WDLIBRAIRIES__/
 __WDDATAS__/
 __WDPROJECTCACHE__/
