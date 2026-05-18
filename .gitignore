@@ -1,15 +1,35 @@
 ############################
 # WinDev project files
 ############################
+*.wda
 *.env
+*.wep
 *.wic
+*.wbx
 *.wdcoverage
 *.wdcoverage.tmp*
 *.wdaudit
+*.waudit
+*.wdap
+*.wig
+*.wlr
+
+*.log
+*.wcp
+*.wrp
+*wdcoverage
+############################
+# WinDev editor/cache files
+############################
+*.wbw
+*.wcw
+*.wrw
+*.wdcoverage
 
 ############################
 # Generated compilation folders
 ############################
+*.cpl/
 cpl/
 Exe/
 Obj/
@@ -27,11 +47,9 @@ Debug/
 # Temporary / logs
 ############################
 *.tmp
-*.log
-*.bak
 
 ############################
-# WinDev cache / temp only
+# WinDev temporary folders
 ############################
 lastsave/
 Backup/
@@ -43,4 +61,3 @@ __WDPROJECTCACHE__/
 # System files
 ############################
 .DS_Store
-Thumbs.db
