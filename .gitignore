@@ -17,14 +17,6 @@
 *.log
 *.wcp
 *.wrp
-*wdcoverage
-############################
-# WinDev editor/cache files
-############################
-*.wbw
-*.wcw
-*.wrw
-*.wdcoverage
 
 ############################
 # Generated compilation folders
