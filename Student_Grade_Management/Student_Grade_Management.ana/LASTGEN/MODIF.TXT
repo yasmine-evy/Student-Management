@@ -1,5 +1,7 @@
-//MO001-002.TXT ANA00001 TO ANA00002
-Student_Subject		TAR	25	new record size: 25
-Student_Subject	Attendance	RUB+		Attendance is a new item
-Constraint_Student_Subject		MCL	0,n->1,n	
-Constraint_Subject_Student		MCL	0,n->1,n	
+//MO002-003.TXT ANA00002 TO ANA00003
+Student_Subject		TAR	42	new record size: 42
+Student_Subject	Td_Grade	CNW	4-byte real$Unsigned 1-byte integer	item Td_Grade has a new type: 4-byte real
+Student_Subject	Test_Grade	CNW	4-byte real$Unsigned 1-byte integer	item Test_Grade has a new type: 4-byte real
+Student_Subject	Exam_Grade	CNW	4-byte real$Unsigned 1-byte integer	item Exam_Grade has a new type: 4-byte real
+Student_Subject	Attendance	CNW	4-byte real$Unsigned 1-byte integer	item Attendance has a new type: 4-byte real
+Student_Subject	Final_Note	RUB+		Final_Note is a new item
