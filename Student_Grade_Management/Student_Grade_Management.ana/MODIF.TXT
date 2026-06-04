@@ -1,1 +1,4 @@
-//MO008-009.TXT ANA00008 TO ANA00009
+//MO011-012.TXT ANA00011 TO ANA00012
+Grade		TAR	45	new record size: 45
+Grade		IDE+*		file with identifier
+Grade	Grade_ID	CNW	Automatic identifier (8 bytes)$Binary string	item Grade_ID has a new type: Automatic identifier (8 bytes)

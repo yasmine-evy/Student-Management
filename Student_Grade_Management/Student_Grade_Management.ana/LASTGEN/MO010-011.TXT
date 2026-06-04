@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Constraint_Student_Subject		MCL	1,1->0,1	
+Constraint_Subject_Student		MCL	1,1->0,1	

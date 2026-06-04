@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Student	Last_name	CLEN*		item Last_name is now a key
+Grade		NNF*	Student_Subject	new name Grade
+Grade	Grade_ID	NNR	Student_ID_SubjectID	CAUTION: Student_ID_SubjectID key renamed as Grade_ID

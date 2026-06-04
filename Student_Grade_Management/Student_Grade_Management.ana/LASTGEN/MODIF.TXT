@@ -1,5 +1,3 @@
-//MO007-008.TXT ANA00007 TO ANA00008
-Student_Subject		TAR	37	new record size: 37
-Student_Subject	Participation	NNR	Attendance	CAUTION: Attendance item renamed as Participation
-Student_Subject	Subject_Avg	NNR	Final_Note	CAUTION: Final_Note item renamed as Subject_Avg
-Student_Subject	Td_Grade	RUB-		item Td_Grade deleted
+//MO010-011.TXT ANA00010 TO ANA00011
+Constraint_Student_Subject		MCL	1,1->0,1	
+Constraint_Subject_Student		MCL	1,1->0,1	
